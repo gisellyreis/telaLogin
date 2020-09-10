@@ -1,0 +1,12 @@
+{
+  "name": "telaLogin",
+  "displayName": "telaLogin",
+  "expo": {
+    "name": "telaLogin",
+    "slug": "telaLogin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
